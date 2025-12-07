@@ -103,3 +103,5 @@ The model performs extremely well on the majority class (0) and shows strong rec
 
 ## User Interface
 ![](img1.jpg)
+![](img2.jpg)
+![](img3.jpg)

@@ -98,4 +98,5 @@ Click “Simulate Random Transaction” to test fraud detection
 
 **Classification Report**
 
-
+![Classification Report](Classification_report.jpg)
+The model performs extremely well on the majority class (0) and shows strong recall on fraud cases, which is important for fraud detection.
